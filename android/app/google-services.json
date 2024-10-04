@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "329947219311",
+    "firebase_url": "https://medical-app-bef4b-default-rtdb.firebaseio.com",
+    "project_id": "medical-app-bef4b",
+    "storage_bucket": "medical-app-bef4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329947219311:android:8b8684709cc20e0084549a",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329947219311-dl2ecd8265e6k241vqsgs9gf7vn2bmjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbA3Xj3nWZPTHOpqgr08repC3MU5_FA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329947219311-dl2ecd8265e6k241vqsgs9gf7vn2bmjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329947219311-sqemsp8c4e1oes8a6motcvn5fe6rtk1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerece"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329947219311:android:427789c6e5fb97bc84549a",
+        "android_client_info": {
+          "package_name": "com.example.app_desk_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329947219311-dl2ecd8265e6k241vqsgs9gf7vn2bmjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbA3Xj3nWZPTHOpqgr08repC3MU5_FA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329947219311-dl2ecd8265e6k241vqsgs9gf7vn2bmjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329947219311-sqemsp8c4e1oes8a6motcvn5fe6rtk1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerece"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
